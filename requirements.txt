@@ -1,0 +1,6 @@
+fastapi 
+uvicorn 
+requests 
+nltk 
+scikit-learn
+# Python for BLEU: import nltk; nltk.download('punkt')
