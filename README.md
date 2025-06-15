@@ -1,9 +1,3 @@
-Certainly! Here is a **professional, clear Markdown README** for your project **TextAugLLMEdge.py**, suitable for GitHub or similar use.
-This assumes **Ollama** is already running with your local models (as you described).
-
----
-
-````markdown
 # TextAugLLMEdge: Localized Text Augmentation on Edge Devices with Quantized LLMs
 
 _Author: Partha Pratim Ray (ppray@cus.ac.in)_
@@ -154,7 +148,7 @@ For questions or collaborations, contact [ppray@cus.ac.in](mailto:ppray@cus.ac.i
 
 ---
 
-```
+
 
 You can **copy and paste this Markdown** as your `README.md`.  
 Let me know if you want a version with sample output or a section on interpreting the CSV results!
