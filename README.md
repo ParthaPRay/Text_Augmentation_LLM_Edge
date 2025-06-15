@@ -148,8 +148,3 @@ For questions or collaborations, contact [ppray@cus.ac.in](mailto:ppray@cus.ac.i
 
 ---
 
-
-
-You can **copy and paste this Markdown** as your `README.md`.  
-Let me know if you want a version with sample output or a section on interpreting the CSV results!
-```
