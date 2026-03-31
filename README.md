@@ -125,14 +125,6 @@ curl -X POST http://localhost:8000/run-batch
 * To change **prompts**, edit the `TEST_PROMPTS` list.
 * All output CSVs are saved in the current directory.
 
----
-
-## Citation
-
-If you use or extend this code for research, please cite:
-
-> Partha Pratim Ray, Mohan Pratap Pradhan, "TextAugLLMEdge: A Text Augmentation Framework Using Localized Large Language Models for Resource-Constrained Edge," (2025).
-> Department of Computer Applications, Sikkim University, India.
 
 ---
 
